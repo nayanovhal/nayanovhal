@@ -1,8 +1,8 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nayan Ovhal</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
-
-<img align="right" alt="coding" width="250" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif
+<img align="right" alt="coding" width="250" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanovhal&label=Profile%20views&color=0e75b6&style=flat" alt="nayanovhal" /> </p>
 
