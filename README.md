@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nayan Ovhal</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
 
-<img align="right" alt="coding" width="250" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif
-">
+<img align="right" alt="coding" width="250" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanovhal&label=Profile%20views&color=0e75b6&style=flat" alt="nayanovhal" /> </p>
 
