@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nayan Ovhal</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
 
-<p align="left"> <img src="https://www.itaims.com/media/search_images/java.webm" alt="nayanovhal" /> </p>
+<p align="left"> <img src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg" alt="nayanovhal" /> </p>
 
 - 🌱 I’m currently learning ***Frameworks of Java***
 
