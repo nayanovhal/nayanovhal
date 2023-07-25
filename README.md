@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nayan Ovhal</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
 
-<img align="right" alt="coding" width="350" src="https://files.codingninjas.in/article_images/java-developers-application-settings-1-1660983825.jpg"> 
+<img align="right" alt="coding" width="350" src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanovhal&label=Profile%20views&color=0e75b6&style=flat" alt="nayanovhal" /> </p>
 
