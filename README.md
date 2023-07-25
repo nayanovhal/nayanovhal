@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://img-blog.csdnimg.cn/28fbe503584d445398cc63955dfe3bc2.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nayan Ovhal</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
 
