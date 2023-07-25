@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nayan Ovhal</h1>
 <h3 align="center">A passionate Java Developer from India</h3>
 
-<img align="right" alt="coding" width="350" src="https://giphy.com/gifs/computahttps://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHByM3VucXhlMXFzZmYyNGloZGs3aXV4OTJ6dnFzdHJsZjRzcXgyZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/200w.gifdor-gu-tecnology-bGgsc5mWoryfgKBx1u"> 
+<img align="right" alt="coding" width="350" src="![image](https://github.com/nayanovhal/nayanovhal/assets/129160766/6dfcd4b9-fc0d-492e-a714-7c00343f46c1)
+"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanovhal&label=Profile%20views&color=0e75b6&style=flat" alt="nayanovhal" /> </p>
 
